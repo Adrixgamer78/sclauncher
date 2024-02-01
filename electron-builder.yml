@@ -1,6 +1,6 @@
 appId: 'squidcraftlauncher'
 productName: 'Squid Craft Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+artifactName: 'Squid.Craft.Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2023-2024 Adrixgamer78'
 
@@ -33,14 +33,14 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: '${productName}-setup-${version}-${arch}.${ext}'
+  artifactName: 'Squid.Craft.Launcher-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
+  maintainer: 'Adrixgamer78'
+  vendor: 'Adrixgamer78'
   synopsis: 'Modded Minecraft Launcher'
   description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
   category: 'Game'

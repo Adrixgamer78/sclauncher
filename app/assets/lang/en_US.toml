@@ -131,7 +131,7 @@ continueButton = "CONTINUAR"
 
 
 [js.discord]
-waiting = "Esperando al Cliente.."
+waiting = "Esperando al cliente.."
 state = "Servidor: {shortId}"
 
 [js.index]
@@ -211,7 +211,7 @@ checkConsoleForDetails = "Please check the console (CTRL + Shift + i) for more d
 checking = "Checking for News"
 
 [js.landing.discord]
-loading = "Loading game.."
+loading = "Cargando juego.."
 joining = "Sailing to Westeros!"
 joined = "Exploring the Realm!"
 
