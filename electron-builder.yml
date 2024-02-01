@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'squidcraftlauncher'
+productName: 'Squid Craft Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 Daniel Scalzi'
+copyright: 'Copyright © 2023-2024 Adrixgamer78'
 
 asar: true
 compression: 'maximum'
@@ -21,10 +21,10 @@ win:
 
 # Windows Installer Configuration
 nsis:
-  oneClick: false
+  oneClick: true
   perMachine: false
   allowElevation: true
-  allowToChangeInstallationDirectory: true
+  allowToChangeInstallationDirectory: false
 
 # macOS Configuration
 mac:
