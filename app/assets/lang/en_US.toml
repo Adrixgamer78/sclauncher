@@ -132,7 +132,7 @@ continueButton = "CONTINUAR"
 
 [js.discord]
 waiting = "Esperando al cliente.."
-state = "Servidor: {shortId}"
+state = "Jugando a: {shortId}"
 
 [js.index]
 microsoftLoginTitle = "Inicio de sesión Microsoft"
@@ -212,8 +212,8 @@ checking = "Checking for News"
 
 [js.landing.discord]
 loading = "Cargando juego.."
-joining = "Sailing to Westeros!"
-joined = "Exploring the Realm!"
+joining = "En el Menu"
+joined = "En el Servidor"
 
 [js.overlay]
 dismiss = "Dismiss"
